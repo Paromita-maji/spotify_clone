@@ -23,7 +23,7 @@ You will need a modern web browser (e.g., Chrome, Firefox, Safari) to run this p
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   (https://github.com/Paromita-maji/spotify_clone/tree/main)
 2. Navigate to the project directory:
    cd spotify-clone
 3. Open the `index.html` file in your web browser to start the app:
