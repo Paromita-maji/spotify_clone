@@ -41,3 +41,4 @@ Usage
 Enjoy listening to your favorite music with our Spotify Clone! 🎧
 
 
+![Screenshots]https://github.com/Paromita-maji/spotify_clone/tree/main/ss
