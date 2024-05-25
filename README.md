@@ -40,5 +40,6 @@ Usage
 ▶️ Playback Control: Use the playbar at the bottom to play, pause, skip forward, or go back to previous songs.
 Enjoy listening to your favorite music with our Spotify Clone! 🎧
 
+For more information, visit [My Website](http://127.0.0.1:3000/index.html).
 
 ![Screenshots]https://github.com/Paromita-maji/spotify_clone/tree/main/ss
